@@ -1,1 +1,2 @@
 Devops Journey
+Day 6 - Git Started
